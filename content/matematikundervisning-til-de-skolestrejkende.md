@@ -3,6 +3,8 @@ title = "Matematikundervisning til de skolestrejkende"
 date = "2020-10-30"
 +++
 
+## *Eller hvorfor 70/30 målet er en katastrofe*
+
 Lad os lave et regnestykke. Ja, det kommer til at gøre nas, men ikke på grund af matematikken. Til gengæld kommer det forhåbentligt til at give lidt klarhed om klimakrisen og 70%-målet. Målet er at se hvilket omfang af klimakatastrofe vi ville ende med, hvis resten af verdens stater planlagde udledninger som den danske stat. 
 
 Vi tager udgangspunkt i hvor meget Danmark vil komme til at udlede hvert år frem til 2050 hvis vi følger 70%-målet. Så lægger vi alle de årlige udledninger sammen. Så ganger vi de sammenlagte udledninger op fra Danmarks befolkning til Verdens befolkning. Det giver os så hvor meget CO2, der på verdensplan ville nå at blive udledt, hvis alle udledte som Danmark kommer til ifølge 70%-målet. Til sidst ser vi på hvilken temperaturstigning det ville betyde.

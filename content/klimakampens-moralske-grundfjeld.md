@@ -1,6 +1,6 @@
 +++
 title = "Det moralske grundfjeld under klimaoprøret"
-date = "2022-09-30"
+date = "2021-09-30"
 +++
 
 Her vil jeg fremlægge hvad jeg selv ser som de klippefaste videnskabelige kendsgerninger og moralske principper der giver os retten til at gøre klimaoprør. Jeg er ret naturvidenskabeligt indstillet, så det er min tilgang præget af, men mit mål er ikke at kritisere hvis du ser tingene på en anden måde. Istedet er det en invitation til at tage samme standpunkt, hvis du synes det giver mening. Det er også til dem, der allerede er med i klimaoprøret for at forsikre dem om at det ikke er usikker grund de står på, men solid granit.

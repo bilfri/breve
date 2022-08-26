@@ -7,6 +7,9 @@ description = "Idéer til klimakampen"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
+# Generate RSS feed
+generate_feed = true
+
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
@@ -19,6 +22,10 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
+footer_links = [
+    {url = "$BASE_URL/om", name = "Om"},
+    {url = "$BASE_URL/atom.xml", name = "RSS"}
+]
 
 author = "Grant Green"
 ogimage = "Greenery.png"
