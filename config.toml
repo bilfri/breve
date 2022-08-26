@@ -1,5 +1,6 @@
 # The URL the site will be built for
-base_url = "https://oprørsbreve.dk"
+base_url = "https://stupendous-axolotl-d54b62.netlify.app"
+# base_url = "https://oprørsbreve.dk"
 
 title = "Oprørsbreve"
 description = "Idéer til klimakampen"
