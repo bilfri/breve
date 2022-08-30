@@ -17,5 +17,5 @@ Der findes heldigvis allerede bøger, film, sange, sider og foredrag fra hele ve
 
 Endemålet med teksterne er handling, ikke at man kan 'blive oplyst'. Altså at du kan tage indholdet med ud i din organisation, bevægelse, aktionsgruppe eller egne overvejelser og drage nytte af dem. De kan selvfølgelig ikke stå istedet for taler, forsamlinger og træninger, men jeg vil bruge dem til at modne idéer inden en tale eller opbevare dem til senere opslag.
 
-Jeg håber at du vil læse med, finder indholdet nyttigt og selv vil bidrage med dine teoretiske overvejelser og erfaringer fra klimakampen. Vi ses på gaden!
+Jeg håber at du vil læse med, finder indholdet nyttigt og selv vil dele dine teoretiske overvejelser og erfaringer fra klimakampen med andre. Vi ses på gaden!
 

@@ -1,4 +1,4 @@
 - Better favicon
 - responsive header width
-- add text about "please join the discussion"
-
+- header line height
+- h1 h2 h3 text size
