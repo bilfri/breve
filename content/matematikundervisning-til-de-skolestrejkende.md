@@ -31,5 +31,3 @@ Skemaet fortæller os at 2.500 millarder ton CO2 betyder en tredjedel chance for
 **Det var det regnestykke - ikke så slemt vel?**
 
 Jo, faktisk grænseløst alvorligt. Tre graders opvarmning betyder hundredevis af millioner af mennesker tvunget på flugt og mange millioner døde af hovedsageligt sult.
-
-[**kilder**](https://write.as/plejer/kilder-til-matematikundervisning)

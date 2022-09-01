@@ -73,8 +73,5 @@ En del af tendensen med ikke at ville gøre bevægelsen for institutionsagtigt k
 
 Jeg er i princippet enig i at lade folk tage deres egne valg, men på grund af konteksten ville slutresultatet blive, at folk endte med at tage beslutningen på et meget skævt grundlag. Det kan jeg ikke acceptere. Jeg vil foreslå at det pga. konteksten er okay at sige til folk, at de bør droppe deres studier og gå ud og blive anholdt. Hvis ikke du er klar på at sige det, vil jeg foreslå at du i det mindste bringer på tale hvilke andre institutioner, der prøver at påvirke vores beslutninger om vores liv.
 
-## Efterligne og udfordre
-
 Opsummeret vil jeg sige, at jeg tror man kan tackle institutionaliseringen ved efterligne den når man engagerer nye og ved at forklare den og tale den imod senere hen.
 
-Når det er sagt er der stadig nødt til at være et element af eget initiativ og fri tænkning. F.eks. som den her side hvor du også kan [bidrage](https://oprørsbreve.dk/udgiv-tekster-pa-oprorsbreve) med din udlægning af hvilke andre barrierer, der er for folk at bliver en del af klimakampen, og hvordan vi kan overkomme dem.
