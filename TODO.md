@@ -1,4 +1,3 @@
-- Better favicon
-- responsive header width
-- header line height
-- h1 h2 h3 text size
+- font loading
+- main domain
+
