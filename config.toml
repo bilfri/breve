@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "xn--oprrsbreve-2cb.dk/"
+base_url = "https://xn--oprrsbreve-2cb.dk"
 
 title = "Oprørsbreve"
 description = "Idéer til klimakampen"
