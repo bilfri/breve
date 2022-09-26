@@ -90,7 +90,6 @@ Vi har i løbet af teksten prøvet at kommentere lidt på hvad man kan lære af 
 
 - Vores budskab idag minder rigtig meget om det der blev sagt den gang. Skal vi prøve noget radikalt anderledes?
 
-Har du en idé til et svar på nogle af de her spørgsmål? [Skriv et indlæg til oprørsbreve!](https://oprørsbreve.dk/udgiv-tekster-pa-oprorsbreve)
 
 [cop15]: https://web.archive.org/web/20091213150537/http://da.cop15.dk/
 
