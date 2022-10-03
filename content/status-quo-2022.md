@@ -1,0 +1,28 @@
++++
+title = "Sådan ligger landet for klimakampen"
+date = "2022-10-03"
++++
+
+Da klimakampen fik sin nystart i Danmark for fire år siden, var den fælles linje fra alle grupperne i klimakampen, at Danmarks udledninger skulle blive under 1,5-grads grænsen. Der blev talt højt om hvordan 1,5 grader var sidste stop før absolut katastrofe. Det var grundlæggende rigtigt og fornuftigt, og en god del af det politiske system gik endda med på at sige det. Hvad tænkte vi dengang vi ville gøre hvis 1,5-grads grænsen blev overtrådt? Hvis alle dem med magt til faktisk at sørge for at samfundet udledninger blev under grænsen løj og i virkeligheden sendte os ud i ubegribelig fare?
+
+Nu har Danmark overtrådt 1,5-grads grænsen. Den danske stat og industri har de sidste fire år planlagt og udført så store udledninger, at det svarer til at overtræde 1,5-grader set på verdensplan. Omkring i 2030 når vi 1,5-grad. Så hvad gør vi? Hvordan ligger landet nu, og hvad gør vi herfra?
+
+Meteoreologen Jesper Theilgaard sagde i Deadline den 14. august 2022 at 1,5 graders målet er umuligt, hvor vi befinder os nu, men at det er en sandhed, politikerne i Danmark ikke vil se i øjnene. Professor i biologisk oceanografi Katherine Richardson, som også er medlem af Klimarådet, sagde i et interview i Mandag Morgen "*Stol ikke på, at klimamålene vil redde verden"* den 29. juli 2022, at kritiske tipping points måske allerede var passeret, og at vi med nutidens viden skulle have sat et mål for en maksimal temperaturstigning på 1 grad i stedet for 1,5 til 2 grader. Større temperaturstigning end det, “kan betragtes som at gamble med vores børns fremtid”, sagde hun. “I øvrigt”, sagde hun, “tyder intet på, at vi kommer i nærheden af de mål, der blev vedtaget i Paris for syv år siden.”
+
+I løbet af de sidste fire år er det også blevet synligt for folk i Danmark som ikke har kigget væk, hvad klimakollaps betyder. Allerede det nuværende niveau af udledning indebærer ekstrem eskalering af oversvømmelser, tørke og krigslignende ødelæggelser af liv, hjem, hele lande.   
+
+Der er ingen øvre grænse for, hvor stort kollapset kan blive. Der er olie og kul nok til at dræbe stort set alt liv, så der er ingen grund til at tøve med at stoppe det. De ting, der skal lukkes for at blive CO2-neutral skal alligevel lukkes på et tidspunkt, så hvorfor ikke gøre det inden vores livsgrundlag er ødelagt for altid? En af grundene til at 1,5-grads grænsen er ved netop 1,5-grader er, at der derfra består overhængende fare for kaskadeeffekter i jordens klima. At udledninger fra fossilindustri og landbrug belaster jordens selvoprettende systemer så meget, at de istedet bliver selvdestruktive, indtil de er kollapset helt.
+
+Den overhængende fare er vi ude i nu, med de udledninger der allerede er pumpet ud i atmosfæren. At industrien fortsætter med udledninger og forøger chancen for den slags kollaps er ubeskriveligt ondsindet. Det ofrer madsystemer, transport, boliger, hedebølger, livsgrundlag i det hele taget. Samtidigt er også biodiversiteten tvunget på katastrofekurs. Den massive uddøen af vilde dyr og udryddelse af arter som landbrug og industri har bevirket er på samme måde en fare for vores livsgrundlag, især muligheden for at dyrke mad.
+
+Regeringen og folketinget har i denne situation valgt at alt dette er ligegyldigt for dem og at de intet problem har med at gøre det værre, ved f.eks. at bestemme at de vil bruge 52 milliarder kroner af vores fælles resourcer på at bygge og udvide motorveje, at udvide Kastrup Lufthavn og Århus fragthavn. De påtvinger os fortsat det animalske landbrug, cementproduktion og vanvidsprojekter som lynetteholm, som dag for dag gør klimakollapset værre og bringer os tættere på uigenkaldelige kaskadeeffekter.
+
+Samtidig med at de har brugt deres magt til at gøre krisen værre, har de sagt, at de gør alt, hvad de kan for at stoppe den. De har løjet og det der er blevet omtalt som et "klimavalg" var i virkeligheden et greenwashing-valg. Den klimalov der kom ud af det var ikke nogen lov, men blot en salgstale. De ting regeringen skrev de ville gøre i denne salgstale var en brøkdel af hvad der skal til for at undgå klimakollaps. Alligevel har regeringen ikke faktisk gjort det, de selv har skrevet, og alligevel har der ikke været nogle juridiske konsekvenser for dem.
+
+Koblingen mellem det fysiske system og det politiske system er CO2-budgettet. Den samlede mængde CO2 samfundet har udledt gennem tiden, som hænger direkte sammen med, hvor meget skade der bliver gjort på vores livsgrundlag. Det budget har politikerne ignoreret fra starten af, og nu er det brugt op uden at nogen blinker. Nu sker det samme med 1.5-grads grænsen, den bliver der heller ikke talt om mere.
+
+I takt med at det bliver sværere og sværere for det politiske system at forklare forskellen på, hvad de siger og hvad de gør, ryger ærligheden i svinget.
+
+Industrien kører tæt parløb med det politiske system. De har heller intet problem med at love guld og grønne skove og vil da også handle på de ting, der kommer dem selv til gode, f.eks. cirkulær økonomi og udbygning af vedvarende energi. Men er på grund af markedets og investorernes tvang imod enhver begrænsning af deres råderum for at lave profit og bruger deres enorme politiske indflydelse på at sørge for at ingen begrænsninger bliver indført.
+
+Jeg tænkte ikke på hvad jeg ville gøre hvis 1,5-grads grænsen blev brudt. Skal det betyde et skift i strategi? Det er vi nødt at finde ud af nu, og så gøre det.
