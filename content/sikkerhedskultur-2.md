@@ -50,7 +50,9 @@ Her er ting der ikke er evidens for:
 - Der er ingen evidens for at telefoners mikrofoner bliver tændt på afstand og brugt til at aflytte - især ikke for slukkede telefoner. Ja, der er software som Pegasus der i princippet kan gøre det, men ingen evidens for brug af dem og ville aldrig blive brugt i retten
   
 - Der er evidens for at almindelige telefonopkald bliver aflyttet, men ikke ved brug af Signal
-  
+
+At politiet knækker koden til mobiler og tjekker information på dem
+At politiet installerer overvågningssoftware på mobiler inden de giver dem tilbage
 
 Risiko for at aktionen bliver stoppet, risiko for at belastende information kan bruges i retten bagefter - mange dele af overvågningen ville anklager aldrig indrømme i retten at de har brugt.
 
