@@ -5,7 +5,7 @@ date = "2022-12-23"
 
 Da jeg skulle samle mod til at tage til min første vejblokade med Extintion Rebellion spurgte jeg min ven om han ville med. Han sagde: "hvis du gør det, så gør jeg det". Og så tog vi begge to afsted. Den slags gruppedynamikker er absolut afgørende når folk skal engagere sig i klimakampen. Så lad os se på en række af dem:
 
-## "Jeg kommer kun hvis der komme mange"
+## "Jeg kommer kun hvis der kommer mange"
 
 Det er altid lidt sværere at stå alene frem med noget usædvanligt. Det er jo lidt et problem hvis man skal samles om klimakampen, for hvem skal så være de første? Omvendt bliver det nemmere for nye at komme med, jo flere der allerede er med. Det er for mig fuldstændig åbenlyst at en af hovedopgaverne i klimakampen er at få flere til at blive aktive. For at få det til at ske tror jeg så, at det giver mening at arrangere større ting med mange deltagere. Dermed er arbejdet langt fra gjort endnu, men det er en god start.
 
