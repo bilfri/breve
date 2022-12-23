@@ -53,10 +53,6 @@ Styrken af argumenterne der er fremført her kommer meget an på ens valg af str
 
 - Sikkerhedskultur kan blive en selvforstærkende spiral. Hvis man som gruppe først har gjort én ting hemmelig kan man nemt finde på den næste ting at gøre hemmelig, og det er meget svært at argumentere imod fordi det kommer til at virke hensynsløst. Men "better safe than sorry" er en dårlig tilgang her, for vi kender i sidste ende ikke omfanget af overvågning, så man kan blive ved med at finde på nye ting at skulle dække sig ind imod. Istedet må niveauet af sikkerhedskultur tilpasses til aktionen. I et vist omfang må man insistere på at politiet ikke skal snage i ens kommunikation selvom den er åben tilgængelig. Det er noget offentligheden vil være enig i, så hvis politiet gør det alligevel skal offentligheden have det at se.
 
-Der er masser af erfaring med at alting var offenligt hvor det gik fint
-
-Der skal være klar opdeling mellem hvornår en aktion er hemmelig og hvornår den er offentlig.
-
 Argumenterne jeg har fremført her er *ikke* for få folk til at lade være med at lave ting, som man ikke kan lave hvis staten kender til dem. Det er ikke et moralsk standpunkt, der handler om at man kun er ren hvis man kendes ved sine handlinger.
 
 Det vigtigste er at der skal være en klar opdeling mellem hvornår en aktion er hemmelig og hvornår den er offentlig. Man skal vælge den model der passer bedst til sin strategi, og det betyder nogle gange at vælge den åbne kultur selvom det er det svære valg. Jeg tror selv at den centrale strategi i klimakampen skal være mobilisering af flere tusinde mennesker og effektiv organisering, og at det gøres bedst med en åben kultur.
