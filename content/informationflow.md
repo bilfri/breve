@@ -1,6 +1,6 @@
 +++
-title: "Informationsdisciplin"
-date: "2022-12-25"
+title = "Informationsdisciplin"
+date = "2022-12-25"
 +++
 
 Mens en organisation er lille, er det rimelig nemt og naturligt at sørge for at alle har den information, de skal bruge. Men efterhånden som organisationen bliver større kan den samlede mængde information blive svær at finde rundt i. Samtidig er indstrømningen af ny information større og bliver svær at sortere i. Så det bliver nødvendigt at være noget mere målrettet om organisationens håndtering af information.
