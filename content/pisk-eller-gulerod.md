@@ -1,0 +1,22 @@
++++
+title = "Pisk eller gulerod?"
+date = "2022-12-26"
++++
+
+En evig debat i klimakampen, er spørgsmålet om hvad der har stærkest forandringskraft: At fortælle om den katastrofe, der venter hvis samfundets drift fortsætter som nu, eller at fortælle om det smukke samfund der kan blive til, hvis vi ændrer det sammen. Altså i lidt bred forstand: pisk eller gulerod? Det vil jeg gerne give mit indspark til og som altid vil jeg foreslå at der er tale om en balance og hvor jeg ser at den balance ligger. Jeg afviser påstande som: "mennesker er naturligt mere tiltrukket til den gode vision" eller "massebevægelser opstår kun hvis folk er tilpas sure".
+
+Vi må se på situationen der ligger for hånden og basere vores vurdering på det. For at melde klart ud fra starten af, så tror jeg at advarslen om nødssituationen er det rigtige valg som primært fokus, men at smukke visioner om fremtiden udfylder mange vigtige sekundære funktioner.
+
+Som udgangspunkt vil jeg bruge Greta Thunbergs analogi for klimakrisen med huset der brænder. Hvis et hus brænder og der er mennesker i, hvad skal der så til for at få folk til at slukke ilden? Her vil man selvfølgelig først og fremmest sige at menneskerne i huset er i fare, istedet for at tale om hvor smukt vi kan gøre huset og hvor godt vi kan have det i det. Det er en lidt provokerende analogi, men jeg synes at den er grundlæggende rigtig og forklarer meget godt hvordan jeg ser på situationen.
+
+Klimakampen er en akut og alvorlig kamp, der kræver en indsats og offervilje af folk, som jeg i hvert fald ikke selv ville mønstre i tide uanset hvor tiltrækkende en vision for samfundet jeg blev præsenteret for. De fleste er ikke for alvor sure over de muligheder og den støtte som samfundet tilbyder dem. Hvis man ønsker sig det tætknyttede, naturbundne, kulturelt berigende liv, kræver det lidt arbejde, men man kan godt finde det. Når [klimacamps](https://klimafaelden.dk/) bliver drevet på en måde der minder om det samfund vi vil have er det da en meget givende oplevelse, men jeg tror ikke det er den stærkeste metode til de store samfundsforandringer (det er heller ikke nødvendigvis det, det prøver at være). Bevares, der er mange utilfredsheder i samfundet, der ikke bliver sagt højt, og med stigende udbytning gennem inflation stiger længslen efter noget andet, men for mig at se står den længsel slet ikke på mål med klimakrisens omfang.
+
+Klimakrisen er først og fremmest en krise og kun i anden række en mulighed. Hvis vi som samfund skal reagere meningsfuldt på den krise må vi tale om dens akuthed og dens alvor. Kun ved at tale om krisen afsløres statens og industriens uduelighed/modvillighed. Og kun ved at tale om krisens alvor og akuthed finder vi villigheden til at give slip på de ting som vi må give slip på for at stoppe krisen. For vores samfund *er* bygget på udbytning, og hvis den udbytning stopper *må* vi give slip på de ting den giver os. Jeg tror ikke at vi nødvendigvis får dårligere liv end vi har nu, men vores muligheder bliver i hvert fald begrænset. Det ligger lidt i ordet planetære grænser.
+
+Tadzio Müller fra Ende Gelände siger at man kan forstå samfundets reaktion på klimaaktivisme som [fortrængelse](https://steadyhq.com/de/friedlichesabotage/posts/e473831e-1b37-47a8-b1e7-5534c6aabdca). Så hvis man i sin aktivisme bliver mødt af et ønske om visioner i stedet for advarsler, er det muligvis mere for at fortrænge katastrofen og ansvaret(!) end det er for at få nemmere ved at tage del i kampen.
+
+Når det så er sagt, så er en vis grad af fortrængelse nødvendig i den her verden hvor man konstant har viden om alt hvad der er galt (og det er meget). Så når der virkelig er brug for en [pause fra konfrontationen](https://birdsbeforethestorm.net/2019/12/how-to-live-like-the-world-is-ending/) er det godt at have en positiv vision at tænke på.
+
+I arbejdet med at overbevise andre om (og tilkæmpe sig) omstillingen er der også en rolle at spille for den positive vision. Jeg har godt nok lige argumenteret for at det ikke kan være hovedargumentet. Men frygten for det ukendte er meget stor, så uanset hvor meget folk frygter klimakollapset, er de meget tilbageholdende med at lave grundlæggende om på samfundet. Det er jo forståeligt nok, og til det hjælper en klar forestilling om hvordan samfundet og vores liv kunne være istedet for. Ikke nødvendigvis en vision der er positiv og federe end samfundet nu, men især en vision der er håndgribelig og faktisk vil stoppe krisen.
+
+Så for at sammenfatte, frem med pisken! (selvom det ikke er det rareste).
