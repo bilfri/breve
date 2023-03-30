@@ -23,6 +23,7 @@ highlight_code = false
 footer_links = [
     {url = "$BASE_URL/om", name = "Om"},
     {url = "$BASE_URL/atom.xml", name = "RSS"}
+    {url = "$BASE_URL/oplæg", name = "Oplæg"}
 ]
 
 author = "Grant Green"
