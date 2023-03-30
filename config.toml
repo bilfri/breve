@@ -26,6 +26,6 @@ footer_links = [
     {url = "$BASE_URL/oplæg", name = "Oplæg"}
 ]
 
-author = "Grant Green"
+author = "Lukas Kluge"
 ogimage = "opengraph.png"
 
