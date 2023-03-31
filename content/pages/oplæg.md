@@ -3,8 +3,14 @@ title = "Oplæg"
 path = "oplæg"
 +++
 
-Jeg kommer meget gerne ud og holder oplæg om de emner jeg skriver om! Det kan både være en specifik vinkel som kunne være interessant for din organisation, eller generelt om at være engageret i klimakampen.
+Jeg er glad for at holde oplæg om de emner jeg skriver om! Hvis du synes at der er nogle brugbare pointer i Oprørsbrevene som andre burde høre kan du bare sende en besked på nummeret forneden. Oplægget kan både dykke ned i en specifik vinkel som kunne være interessant for din organisation, eller generelt om at være engageret i klimakampen. Mit mål er at styrke og inspirere så mange som muligt til at deltage i klimakampen på en måde der giver mening.
 
-Oplæggene kan også indeholde praktiske øvelser, refleksionspunkter, og samtalespørgsmål.
+Jeg laver mine oplæg på baggrund af intens erfaring med alle dele af klimakampen: gadeprotester, pressearbejde, strategiudvikling, taleskrivning, opfostring af fællesskaber, møder med direktører og politikere, 10 anholdelser, omsorgsarbejde, kreative processer og meget mere.
 
-Kontakt på 42 22 52 91
+Oplæggene kan også indeholde:
+- praktiske øvelser
+- refleksionspunkter
+- samtalespørgsmål
+- debatpanel
+
+☎️ Kontakt på 42 22 52 91 

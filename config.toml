@@ -22,8 +22,8 @@ highlight_code = false
 # Put all your custom variables here
 footer_links = [
     {url = "$BASE_URL/om", name = "Om"},
-    {url = "$BASE_URL/atom.xml", name = "RSS"}
-    {url = "$BASE_URL/oplæg", name = "Oplæg"}
+    {url = "$BASE_URL/oplæg", name = "Oplæg"},
+    {url = "$BASE_URL/atom.xml", name = "Feed"}
 ]
 
 author = "Lukas Kluge"
