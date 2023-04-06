@@ -7,6 +7,8 @@ Det er blevet bredt udbredt i klimakampen at organisationer stiller krav til sta
 
 Kravene i klimakampen udspringer fra en lang tradition for at bruge krav til at skabe progressiv forandring. Det klassiske eksempel er arbejderstrejken: "[Vi kan se at firmaet har en masse penge i overskud, så vi kræver 10% højere løn, ellers strejker vi](https://stories.workingclasshistory.com/article/11200/troy-laundry-strike-expands)". Et andet eksempel er studenteroprør der [kræver medbestemmelse i det faglige udbud på deres universtitet](https://www.information.dk/indland/2019/11/blokade-paa-koebenhavns-universitet-uge-3-noedt-goere-paa-voldsom-maade).
 
+## Formål
+
 Men man skal gøre sig lidt umage for at lave gode krav, der er konstruktive i klimakampen. Først må vi se på, hvilke formål vi kan bruge kravet til:
 
 - Det oplagte formål er selvfølgelig at kravet skal indeholde den politiske forandring, der kæmpes for. I klimakampen er det altså et spørgsmål om hvad der er politisk nødvendigt for at bringe vores samfund i overensstemmelse med vores moralske principper, givet den fysiske situation vi står i. Det bruges som fokuspunkt som man bygger pres op om.
@@ -16,7 +18,8 @@ Men man skal gøre sig lidt umage for at lave gode krav, der er konstruktive i k
 - Et krav kan også bruges til at afklæde politikernes løgne. I øjeblikket lader de som om, de allerede gør alt man kunne ønske sig. Men et klart krav kan gøre det tydeligt at politikerne lyver og vise hvad der faktisk sker.
   
 - I tråd med forrige pointe kan kravet også tegne klart op, hvem der er for og imod i klimakampen. Alle vil gerne sige, at de er grønne (endda grønnest), men hvem vil gøre det, der faktisk skal til? Det kan f.eks. være brugbart når politikere går med i en klimamarch og suger af den popularitet klimabevægelsen har bygget op. Går de politikere ind for de krav marchen stiller? nej? så kan de ikke gå med. Omvendt kan et fælles krav også bruges til at danne alliance mellem organisationer i klimakampen.
-  
+
+## Egenskaber
 
 Hvordan får vi så valgt et krav så det bedst muligt fremmer ovenstående formål? Her er nogle bud:
 
@@ -33,7 +36,8 @@ Hvordan får vi så valgt et krav så det bedst muligt fremmer ovenstående form
 - Det skal være muligt at vinde. Hvis et krav virker opnåeligt er det noget mere motiverende at arbejde for. Det føles mindre som at kaste sit arbejde i et hul i jorden. Det er dog lidt farligt kun at ville kæmpe for noget der har god chance for at lykkes. For det kan nemt se ud som om klimakampen i sin helhed ikke kommer til at lykkedes. Så der er brug for nogle, der gerne vil kæmpe for hvad der er rigtigt, uanset om det kommer til at lykkes eller ej. Men det er ikke alle, der tænker sådan, så derfor er der en fordel i at dele klimakampen op i krav, der hver især føles opnåelige/overskuelige.
   
 - Kravene skal have CO2-neutralitet for øje. Det nytter ikke noget at have et krav, der selv hvis det blev opfyldt, ville blokere vejen for at nå helt til CO2-neutralitet. Der findes så mange eksempler på tiltag, der reducerer CO2-udledninger lidt, men samtidigt binder os stærkere til resten af udledningerne. F.eks. at lave biogas af gylle. Er det ikke smart at bruge gylle til at lave brændstof? Nej, for det binder os til det animalske landbrug.
-  
+
+## Eksempel: "Stop ny motorvej"
 
 Det er svært at samle alle disse egenskaber I ét krav, og det kan nok godt lade sig gøre at lave et brugbart krav, der ikke opfylder dem alle. Men et eksempel på et krav, der nogenlunde opfylder alle kriterierne er "stop ny motorvej", altså at der omgående skal stoppes for byggeri og udvidelse af motorvej i danmark.
 
@@ -50,15 +54,25 @@ Det er svært at samle alle disse egenskaber I ét krav, og det kan nok godt lad
 - Det er et stort krav og vi skal ikke gøre os nogle illusioner om hvor meget det ville kræve at få gennemført. Det er i størrelsesorden med [*Atomkraft, Nej Tak*](https://www.atomkraftnejtak.dk/velkommen) eller [*Just Stop Oil*](https://juststopoil.org/). Men det virker ikke helt umuligt.
   
 - Et CO2 neutralt samfund har på ingen måde brug for flere motorveje end der allerede er. I det hele taget giver det rigtig god mening at fokusere på ting der *forøger* udledningerne. Det er en øm sandhed for regeringen at de stadig aktivt forøger CO2-udledningerne med størstedelen af deres politik.
-  
 
 Det er også et godt krav fordi det er et åbenlyst første skridt i en nødplan for klimakrisen. I øjeblikket er der i Danmark en reformistisk og en radikal strømning i klimakampen. Det smarte ved at fokusere på de første skridt i en nødplan er at de er de samme uanset om man kæmper for en omgående nedlukning af al CO2-udledning eller tager den bedste mulighed for at reducere udledningerne og arbejder på det.
+
+## Ét krav
 
 Derudover er der nogle fordele ved kun at have ét krav. For det første skær det mere igennem i medierne. Det er svært at komme igennem med noget budskab overhovedet. Hvis man kun har ét krav, kan man måske komme til at sige det oftere end politikere fra Socialdemokratiet siger "verdens mest ambitiøse klimalov".
 
 Samtidigt er det sundt for organisationer at have ét fokus. Hvis man har flere krav kan man miste forbindelsen mellem sit arbejde og gennemførelse af kravet. Hvis man altid kan argumentere for at en hvilken som helst indsats passer til ét af kravene får man ikke samlet kræfterne om noget. Ved at have ét krav er man nødt til at tænke mere over, hvad der faktisk skulle til for at få gennemført det krav. Som reference kan man f.eks. se på [kampen for et nyt ungdomshus](http://ungdomshuset.dk/historie/kampen-for-et-nyt-hus.aspx). Hvor stor en indsats krævede det i forhold til hvor stort kravet var?
 
+## Konsekvenser
+
 Man må planlægge, at det skal have konsekvenser for den institution/person man stiller krav til hvis de ikke går med på kravet. Ellers er det ikke et krav, men blot et forslag. Hvis man stiller krav uden at der sker noget, hvis ikke de opfyldes, kan det underminere andres krav. Magthaverne bliver vant til at de bare kan ignorere kravene og så går de væk.
+
+Omvendt må man også planlægge at stoppe sin kampagne hvis kravet faktisk bliver efterkommet. Hvis dem man vil forhandle om kravet med, føler at der bare kommer en ny kampagne mod dem, hvis de går med på kravet, forsvinder en af de store grunde til at sige ja. Kampagnen kan selvfølgelig stadig have en effekt ift. at konfrontere målgruppen med et emne de måske helst vil fortrænge. Og måske tænker målet for kampagnen at emnet er tilpas ømt til at de foretrækker en kampagne om noget andet. Men alligevel er det grundlæggende et problem i forhandlingen hvis man mister tilbuddet om at stoppe forstyrrelserne.
+
+Det giver os selvfølgelig en udfordring ift. de institutioner vi skal have til at lave *mange* ting om - især Staten. Regeringen har ikke så meget motivation til at stoppe byggeri af ny motorvej hvis de tænker at der efterfølgende bare kommer en lige så forstyrrende kampagne om f.eks. bilfri byer. Hvordan kommer vi ud af denne knibe?:
+- En mulighed er at have en eksplicit plan for hvem kampagnen vil rette sig mod bagefter, og at det selvfølgelig er nogle andre en regeringen.
+- En anden mulighed er at lave kampagnen eksplicit mod et bestemt ministerium for så at kunne skifte til et andet ministerium. (Men muligvis holder ministerierne for meget sammen til at det virker)
+- Ellers må man tage konsekvensen og tale om hele krisen hvis man henvender sig til staten. I det tilfælde må kravet være: "Regeringen skal fremlæggele og udføre en klimanødplan". Alternativt må man kræve et regimeskifte til en demokratiform der er i stand til dette, men det giver ikke mening som krav til regeringen.
 
 ## Forandring uden krav
 
