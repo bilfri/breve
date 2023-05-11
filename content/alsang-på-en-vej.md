@@ -130,7 +130,7 @@ Du kan læse mere info om aktionsplanlægning [her](https://xrdk.org/assets/pdf/
 
 I Højskolesangbogen er der masser af sange der indeholder natur, oprør og liv. Her er et udvalg, som der kan vælges 10-12 ud fra. Sørg for at det er nogle sange, der ikke er alt for svære at synge for jer.
 
-## Natur
+## Klima og natur
 
 - Egetræet tungt af alder
 - Vårvise
@@ -138,6 +138,7 @@ I Højskolesangbogen er der masser af sange der indeholder natur, oprør og liv.
 - Noget om kraft
 - Where have all the flowers gone
 - Du skal plante et træ
+- Dommen er faldet, ingen appel
 
 ## Oprør
 
