@@ -102,7 +102,7 @@ Her er et bud på et sådant system sat ind i en tidslinje:
 
 ### 5 måneder før oprøret
 
-En organiseringsgruppe samles, fordi de gerne vil organisere et oprør. De begynder at overveje tid, sted, ca. antal deltagere, ca. varighed og eventuelt politisk mål. De begynder desuden at finde folk til at være tovholdere for de ovennævnte arbejdsgrupper (gerne flere pr. gruppe) og vender idéer til oprøret med dem.
+En organiseringsgruppe samles, fordi de gerne vil organisere et oprør. De begynder at overveje tid, sted, ca. antal deltagere, ca. varighed og eventuelt politisk mål. *Målet er selvfølgelig, at få så mange som muligt med og få det til at vare så længe som muligt. Men for at kunne afstemme arbejdsgruppernes arbejde, er man nødt til at angive et antal deltagere og en varighed, som man vil understøtte organisatorisk. Men at der så kommer folk udover det antal og varighed er som udgangspunkt bare et stort plus.* De begynder desuden at finde folk til at være tovholdere for de ovennævnte arbejdsgrupper (gerne flere pr. gruppe) og vender idéer til oprøret med dem.
 
 ### 4 måneder før oprøret
 
