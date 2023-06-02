@@ -69,11 +69,13 @@ Handler om en vision for et bedre demokrati gennem brug af et borgerting og demo
 ## Filosofi
 
 ### [Oprøreren](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A22194224) (Albert Camus)
-Handler om de eksistentielle træk i det at gøre oprør. Meget svær med masser af referencer, men indeholder nogle virkelig stærke pointer en gang imellem
+Handler om de eksistentielle træk i det at gøre oprør. Bogen er meget svær at læse og har masser af obskure referencer, men indeholder nogle virkelig stærke pointer en gang imellem.
 
 ### [Wages of Rebellion](https://www.hachettebookgroup.com/titles/chris-hedges/wages-of-rebellion/9781568585420/) (Chris Hedges)
 Det moralske grundlag for oprør i vores samfund. Bogen argumenterer for hvordan udbytningen af mennesker og ødelæggelsen af vores klima og natur er grobund for en revolution.
 
+### [Civil Ulydighed](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A25993039) (Henry David Thoreau)
+Beskæftiger sig med forholdet mellem moral, lov og demokrati.
 
 ## Organisering
 
