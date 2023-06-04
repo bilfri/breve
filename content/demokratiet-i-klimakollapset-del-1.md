@@ -9,7 +9,7 @@ date = "2023-06-02"
 
 ## Demokrati i samfundet
 
-> *note: denne tekst handler om forskellene på nogle af de dele af vores samfund som vi ellers til daglig ikke gør så meget forskel på, navnligt: "vi", samfundet, demokratiet, repræsentativt demokrati, folkets vilje, det politiske system, staten, folketinget og regeringen". Når jeg bruger "vi", så mener jeg alle os, der er en del af civilsamfundet - uden politikere og industrichefer.*
+> *Denne tekst handler om forskellene på nogle af de dele af vores samfund som vi ellers til daglig ikke gør så meget forskel på, navnligt: "vi", samfundet, demokratiet, repræsentativt demokrati, folkets vilje, det politiske system, staten, folketinget og regeringen". Når jeg bruger "vi", så mener jeg alle os, der er en del af civilsamfundet - uden politikere og industrichefer.*
 
 Det er efterhånden en kliché at politikere kalder folk, der protesterer på en måde politiet ikke kan lide, for anti-demokrater. Det er ikke nødvendigvis et problem for klimakampen, at de gør det. Men løgnen har fundet et vist indpas hos deltagere i klimakampen og skaber tilbageholdenhed, så derfor føler jeg alligevel, at det er vigtigt at tilbagevise. Den demokratiske usikkerhed skyldes nok, at protest er en del af demokratiet som vi sjældent har med at gøre, men mere om det senere.
 
@@ -51,9 +51,9 @@ Oven på det må vi huske, at [politiet ofte overtræder loven](https://www.info
 
 Så for at opsummere:
 
-- Det repræsentative demokrati laver ikke i overensstemmelse med borgernes behov og ønsker
+- Det repræsentative demokrati laver love ikke i overensstemmelse med borgernes behov og ønsker
   
-- Retsvæsenet udøver ikke lovene i overensstemmelse med borgernes behov og ønsker
+- Retsvæsenet dømmer ikke efter lovene i overensstemmelse med borgernes behov og ønsker
   
 - Politiet undertrykker folk i uoverensstemmelse med selv retsvæsenets fortolkning af lovene.
   
@@ -62,7 +62,7 @@ Altså er klimahandling og klimakamp langt mere i overensstemmelse med "folkets 
 
 ### Demokratiske rettigheder uden for nutidens Danmark
 
-Når vi ser på vores demokrati, må vi også huske, at det eksisterer blandt en hel masse mennesker, der ikke har mulighed for indflydelse (både i vores samfund og udenfor). F.eks. har mennesker, der er under 18 år eller ikke er født endnu, og mennesker i andre lande, ikke nogen mulighed for indflydelse på det danske politiske system. Derfor har det danske politiske system heller ingen ret til at bestemme over deres liv. Det har f.eks. ikke ret til at bruge af deres penge. På samme måde har det ikke ret til at bruge deres atmosfære som losseplads for klimagas. Det har ikke ret til at skabe ekstremt vejr og [hælde salt(vand) på deres marker](https://www.aljazeera.com/news/2022/6/22/bangladesh-floods-experts-say-climate-crisis-worsening-situation), så intet kan gro.
+Når vi ser på vores demokrati, må vi også huske, at det eksisterer blandt en hel masse mennesker, der ikke har mulighed for indflydelse. F.eks. har mennesker, der er under 18 år eller ikke er født endnu, og mennesker i andre lande, ikke nogen mulighed for indflydelse på det danske politiske system. Derfor har det danske politiske system heller ingen ret til at bestemme over deres liv. Det har f.eks. ikke ret til at bruge af deres penge. På samme måde har det ikke ret til at bruge deres atmosfære som losseplads for klimagas. Det har ikke ret til at skabe ekstremt vejr og [hælde salt(vand) på deres marker](https://www.aljazeera.com/news/2022/6/22/bangladesh-floods-experts-say-climate-crisis-worsening-situation), så intet kan gro.
 
 Med andre ord, så udøver dansk politik diktatorisk magt over folk i andre lande og fremtidige generationer gennem deres beslutning om at udlede klimagas. At stoppe udledningen af CO₂ er altså et forsvar af disse menneskers demokratiske rettigheder.
 
@@ -70,7 +70,7 @@ Med andre ord, så udøver dansk politik diktatorisk magt over folk i andre land
 
 Med klimanødsituationen er vi nødt til at forholde os til undtagelsestilstanden. I vores politiske system har vi indbygget konceptet undtagelsestilstand, hvilket betyder at regeringen kan styre landet udenom etableret lov. Med andre ord, sætte det repræsentative demokrati tilside. Så vores politiske system er ikke mere demokratisk end at regeringen eller militæret kan vælge demokratisk indflydelse helt fra hvis de virkelig vil. Og det er netop i tilfælde af krig eller ekstremt vejr, at der er lagt op til brugen af undtagelsestilstanden. Så for at bevare demokratiet må det være samfundets øverste pligt at undgå undtagelsestilstanden. Politik der fortsætter eller endda øger udledning af klimagas bringer os derimod *tættere* på undtagelsestilstanden.
 
-Vi har allerede set hvordan krisestemning, en mildere udgave af undtagelsestilstanden, har været brugt til at gennemføre politik, der ville have mødt meget modstand under "normale" forhold. F.eks. blev afskaffelse af Store Bededag begrundet med krigen i Ukraine eller frikøb af SAS' gæld blev begrundet med covid-19 nedlukninger.
+Vi har allerede set hvordan krisestemning, en mildere udgave af undtagelsestilstanden, har været brugt til at gennemføre politik, der ville have mødt meget modstand under "normale" forhold. F.eks. blev afskaffelse af Store Bededag begrundet med krigen i Ukraine eller frikøb af SAS' gæld blev begrundet med covid-19 nedlukninger. Naomi Klein beskriver i [*The Shock Doctrine*](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A44447282) udførligt hvordan kriser udnyttes til at dulme folkelig modstand.
 
 Det eneste, der sikrer os mod misbrug af krisestemning og undtagelsestilstanden er netop organiseret modstand fra civilsamfundet.
 
