@@ -123,7 +123,7 @@ Ingeniørvidenskab er naturvidenskab + *pragmatisme*. Den samme pragmatisme har 
 Systemer som ingeniører arbejder på har ofte en række indstillinger, der definerer hvordan de virker. Det kan forbedre systemet meget, hvis disse indstillinger står et fornuftigt sted som udgangspunkt (på engelsk: default). Det samme princip kan man bruge i klimakampen, selvom det dog kræver lidt abstraktion. Men det kan f.eks. bruges, når man skal have et system for at melde til/fra møder. Det kan laves på to måder:
 - Man går ud fra at alle kommer, og dem der ikke kommer skal melde fra
 - Man går ud fra at ingen kommer, og alle der kommer skal melde til
-Da det er klart bedst for organisationen at alle kommer, betyder princippet om gode udgangspunkter, at det første af de to muligheder er bedst.
+Da det er klart bedst for organisationen at alle kommer, betyder princippet om gode udgangspunkter, at den første af de to muligheder er bedst.
 
 ## Trade-offs
 
