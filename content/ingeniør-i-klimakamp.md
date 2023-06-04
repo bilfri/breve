@@ -127,7 +127,7 @@ Da det er klart bedst for organisationen at alle kommer, betyder princippet om g
 
 ## Trade-offs
 
-For at forstå et problem eller en opgave, kan det være et godt greb at se på hvilke *trade-offs* der ligger i den. Et trade-off er når der er to egenskaber man bare ikke have samtidigt, så det handler om at finde den rette balance. F.eks. hvis man afholder introoplæg, vil man gerne gøre det spændende og nemt for nye at være med til. Men samtidigt vil man gerne give deltagerne så meget info som muligt. De to ting går i forskellige retninger, så der er tale om et trade-off hvor det bedste man kan gøre, er at finde en optimal balance for længden af oplægget.
+For at forstå et problem eller en opgave, kan det være et godt greb at se på hvilke *trade-offs* der ligger i den. Et trade-off er når der er to egenskaber man bare ikke kan have samtidigt, så det handler om at finde den rette balance. F.eks. hvis man afholder introoplæg, vil man gerne gøre det spændende og nemt for nye at være med til. Men samtidigt vil man gerne give deltagerne så meget info som muligt. De to ting går i forskellige retninger, så der er tale om et trade-off hvor det bedste man kan gøre, er at finde en optimal balance for længden af oplægget.
 
 ---
 
