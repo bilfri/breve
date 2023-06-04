@@ -118,6 +118,13 @@ I ingeniørverdenen arbejder man, ligesom i klimakampen, ofte i projekter, der e
 
 Ingeniørvidenskab er naturvidenskab + *pragmatisme*. Den samme pragmatisme har vi brug for i klimakampen. F.eks. vil man gerne undgå at bruge biler, men i den verden vi lever i kan det være det være ok at bruge den til f.eks. at trække en scene ind til et oprør. Et andet eksempel er, at hvis man sætter en ny deltager til at lave flyers, bliver resultatet måske ikke helt så godt. Men pragmatisk set er det godt, fordi det går alt for langsomt, hvis det altid er den mest kompetente, der laver hver opgave.
 
+## Gode udgangspunkter
+
+Systemer som ingeniører arbejder på har ofte en række indstillinger, der definerer hvordan de virker. Det kan forbedre systemet meget, hvis disse indstillinger står et fornuftigt sted som udgangspunkt (på engelsk: default). Det samme princip kan man bruge i klimakampen, selvom det dog kræver lidt abstraktion. Men det kan f.eks. bruges, når man skal have et system for at melde til/fra møder. Det kan laves på to måder:
+- Man går ud fra at alle kommer, og dem der ikke kommer skal melde fra
+- Man går ud fra at ingen kommer, og alle der kommer skal melde til
+Da det er klart bedst for organisationen at alle kommer, betyder princippet om gode udgangspunkter, at det første af de to muligheder er bedst.
+
 ## Trade-offs
 
 For at forstå et problem eller en opgave, kan det være et godt greb at se på hvilke *trade-offs* der ligger i den. Et trade-off er når der er to egenskaber man bare ikke have samtidigt, så det handler om at finde den rette balance. F.eks. hvis man afholder introoplæg, vil man gerne gøre det spændende og nemt for nye at være med til. Men samtidigt vil man gerne give deltagerne så meget info som muligt. De to ting går i forskellige retninger, så der er tale om et trade-off hvor det bedste man kan gøre, er at finde en optimal balance for længden af oplægget.
