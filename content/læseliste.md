@@ -77,6 +77,9 @@ Det moralske grundlag for oprør i vores samfund. Bogen argumenterer for hvordan
 ### [Civil Ulydighed](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A25993039) (Henry David Thoreau)
 Beskæftiger sig med forholdet mellem moral, lov og demokrati.
 
+### [No Bars to Manhood](https://bibliotek.dk/linkme.php?rec.id=872020-katalog%3A000020372) (Daniel Berrigan)
+Taler om den åndelige side af kampen for retfærdighed og fred ud fra erfaringer fra kampen mod Vietnamkrigen og studenteroprør. Ser på hvad det kræver at beholde sin personlige integritet i et samfund, der gør forfærdelige ting. Lad dig ikke afskrække af titlen, den er på ingen måde macho.
+
 ## Organisering
 
 ### [Den lille projekthåndbog](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A47163374) (Torben Vinter, Julie Melgaard Smidt, Stine Skjødt Mygind)
