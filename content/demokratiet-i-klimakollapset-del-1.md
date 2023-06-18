@@ -52,11 +52,10 @@ Oven på det må vi huske, at [politiet ofte overtræder loven](https://www.info
 Så for at opsummere:
 
 - Det repræsentative demokrati laver love ikke i overensstemmelse med borgernes behov og ønsker
-  
+
 - Retsvæsenet dømmer ikke efter lovene i overensstemmelse med borgernes behov og ønsker
-  
+
 - Politiet undertrykker folk i uoverensstemmelse med selv retsvæsenets fortolkning af lovene.
-  
 
 Altså er klimahandling og klimakamp langt mere i overensstemmelse med "folkets vilje" end det kommer til udtryk gennem det repræsentative demokrati, retsvæsenet og politiet.
 

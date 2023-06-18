@@ -24,7 +24,7 @@ Arbejdet i listen er delt ud på nogle arbejdsgrupper, med en central organiseri
 
 - Træne konfliktmæglere/omsorgspersoner/førstehjælpere  
 - Håndtere konflikter i forberedelsesfasen  
-- Organisere løsladelsesvagter, der tager imod folk, der er blevet anholdt anholdt  
+- Organisere løsladelsesvagter, der tager imod folk, der er blevet anholdt  
 - Planlægge debrief/evaluering  
 
 ## Mobilisering
@@ -93,10 +93,10 @@ Arbejdet i listen er delt ud på nogle arbejdsgrupper, med en central organiseri
 
 Som det kan ses på arbejdsopgaverne, er der meget, der skal koordineres og afstemmes arbejdsgrupperne imellem. Der er brug for et godt system, der:
 
-- sikrer at intet falder mellem to stole  
-- er motiverende at arbejde i  
-- undgår at opgaverne bliver samlet på få hænder  
-- når det hele inden oprøret skal i gang  
+- Sikrer at intet falder mellem to stole  
+- Er motiverende at arbejde i  
+- Undgår at opgaverne bliver samlet på få hænder  
+- Når det hele inden oprøret skal i gang  
 
 Her er et bud på et sådant system sat ind i en tidslinje:
 
