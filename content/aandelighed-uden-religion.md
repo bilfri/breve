@@ -3,6 +3,9 @@ title = "Åndelighed i klimakampen"
 date = "2021-03-05"
 +++
 
+![image](https://github.com/bilfri/breve/assets/74826234/c914847d-db6b-4b75-8303-e9dedf68b2a8)
+
+
 Klimakampen giver anledning til at overveje nogle ret grundlæggende spørgsmål i ens liv. "Hvad er det gode liv?", "Hvilket ansvar har man overfor sine børn?" osv. Tidligere var det religion, der gav svar på mange af de spørgsmål. Det var i religionen, man fandt sit forhold til døden – andres og sin egen. Man kunne tage del i noget der var større end en selv, gennem ritualer og gennem tanken om at have en fælles mission sammen med alle andre medlemmer af sin religion. Der var svar på hvad der var godt og ondt til prædikener og i de centrale tekster. Man fandt en tilknytning til naturen, f.eks. gennem en idé om en fælles ånd i alt levende. Religion trøstede også ved ensomhed og fortalte at man aldrig var alene og altid kunne søge hjælp i det overnaturlige. Det var en kilde til mod, for dem der havde verden imod sig. Martin Luther King skrev i sin bog [Strength to Love](https://bibliotek.dk/linkme.php?rec.id=874310-katalog%3ADBB0627534): ”If you do not have a deep and patient faith in God, you will be powerless to face the delays, disappointments, and vicissitudes that inevitably come.”
 
 Tiderne skrifter. I den tilsyneladende rimeligt problemfri tilværelse de fleste af os (danskere) lever nu, kan vi snydes til at tro, at vi ikke rigtig har brug for at beskæftige os med disse åndelige spørgsmål. Men der *er* stadig situationer hvor vi ikke kan undgå at skulle tage stilling. Og der er endnu flere situationer, hvor valget om ikke at søge svar bliver et svar i sig selv. 
