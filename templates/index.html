@@ -15,9 +15,6 @@
     {% set data = load_data(path="public/style.css", format="plain") -%}
     <style>{{ data | safe }}</style>
 
-    {% Vercel Analytics %}
-    <script defer src="/_vercel/insights/script.js"></script>
-
     {% block seo -%}
       <meta property="og:site_name" content="{% block ogsitename %}{{config.title}}{% endblock ogsitename %}">
       {% if config.extra.author -%}
@@ -43,6 +40,9 @@
 
     {% block extra_head %}
     {% endblock extra_head %}
+
+  <!-- Vercel Analytics -->
+  <script defer src="/_vercel/insights/script.js"></script>
 
   </head>
   {% endblock head %}
