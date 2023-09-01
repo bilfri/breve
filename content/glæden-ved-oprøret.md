@@ -3,7 +3,6 @@ title = "Glæden ved kampen"
 date = "2023-08-25"
 +++
 
-
 Som del af klimakampen bliver man udsat for en masse forskellige følelser. På den ene side er der frygt for straf og udskamning, på den anden side er der – ja, alt det gode. Det kan være stolthed, meningsfuldhed, frigørelse eller måske begejstring.
 
 ## Hvor kommer det fra?

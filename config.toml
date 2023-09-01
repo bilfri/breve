@@ -27,5 +27,5 @@ footer_links = [
 ]
 
 author = "Lukas Kluge"
-ogimage = "opengraph.png"
+ogimage = "/opengraph.png"
 

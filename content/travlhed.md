@@ -1,6 +1,7 @@
 +++
 title = "Vi har travlt"
 date = "2023-03-04"
+description = "Hvis man prøver at engagere folk i klimakampen, er den begrundelse folk oftest kommer med for ikke at deltage: \"Jeg har travlt\". Det er ironisk, når det jo netop er klimakampen vi har travlt med. Når vi får overvundet undskyldningen om at have travlt, er der intet, der kan stoppe os.
 +++
 
 Når jeg inviterer folk til at være med i klimakampen og fortæller hvor vigtigt det er, at de er med, er det svar jeg oftest får: "Ej, det lyder helt vildt godt, men jeg har virkelig travlt for tiden". Det sker så ofte, at det lader til at vores initiativer står og falder med om vi kan overvinde undskyldningen om travlhed. Det sker desuden ikke kun med nye, men også med folk der allerede er med i en organisation i klimakampen. Så det virker som en vigtig opgave i klimakampen at forstå det fænomen og finde ud af hvordan det kan omgås.
