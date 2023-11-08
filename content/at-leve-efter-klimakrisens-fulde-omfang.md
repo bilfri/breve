@@ -1,5 +1,5 @@
 +++
-title = "Fra klimasammenbruddets fulde omfang til dit lille liv"
+title = "Om at tage klimasammenbruddets fulde omfang ind i sit lille liv"
 date = "2023-11-08"
 +++
 
