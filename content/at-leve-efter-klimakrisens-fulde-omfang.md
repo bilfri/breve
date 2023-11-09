@@ -11,7 +11,7 @@ Klimasammenbruddets fulde omfang er selvfølgelig umuligt at gengive på tekst, 
 
 - Konsekvenser af klimakrisen er allerede nu på et niveau hvor det afgørende må stoppes. [Ca. 5 millioner mennesker dør en for tidligt død hvert år pga. overophedningen af klimaet](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00081-4/fulltext).
 - [Vi er ude i overhængende fare for, at der er blevet sat gang i en lavine-effekt af klimasystemer, der styrter sammen og først slutter når jorden er blevet fuldstændigt utålelig at bo på](https://www.theguardian.com/science/2020/sep/19/the-tipping-points-at-the-heart-of-the-climate-crisis). Enhver ekstra udledning forøger chancen for at denne lavine-effekt sker.
-- [Vi er på kurs mod at 1-3 milliarder menneskers hjemsteder bliver ubeboelige inden for 50 år]([Future of the human climate niche | PNAS](https://www.pnas.org/doi/10.1073/pnas.1910114117)), hvilket betyder, at de kommer til at stå med valget mellem at dø eller at flygte.
+- [Vi er på kurs mod at 1-3 milliarder menneskers hjemsteder bliver ubeboelige inden for 50 år](https://www.pnas.org/doi/10.1073/pnas.1910114117), hvilket betyder, at de kommer til at stå med valget mellem at dø eller at flygte.
   
 
 Den eneste virkelige måde at komme ud af denne situation på, er at verdenssamfundet stopper med at udlede klimagas.
