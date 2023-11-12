@@ -1,4 +1,20 @@
 @import "fonts";
+
+:root {
+	--white: #fffaf7;
+	--black: #2d2d2d;
+}
+body {
+	background-color: var(--white);
+	background-image: url("/images/blob-scatter-background.svg");
+	background-size: cover;
+	background-position: top;
+	color: #2d2d2d;
+	font-family: "Happy Times", serif;
+	font-size: 17px;
+	line-height: 1.65;
+}
+
 #site-title {
 	text-transform: Uppercase;
 	font-family: "Le Murmure", serif;
@@ -14,17 +30,10 @@
 	font-family: "Minipax", serif;
 	text-align: center;
 	font-weight: normal;
-	color: #2d2d2d;
+	color: var(--black);
 	line-height: 1;
 }
-html,
-body {
-	background: #fffaf7;
-	color: #2d2d2d;
-	font-family: "Happy Times", serif;
-	font-size: 17px;
-	line-height: 1.65;
-}
+
 h1, h2, h3 {
 	font-family: "Minipax", sans-serif;
 	font-weight: 600;
@@ -40,7 +49,7 @@ a,
 a:visited {
 	text-decoration: none;
 	text-decoration: underline;
-	color: #2d2d2d;
+	color: var(--black);
 }
 a:hover {
 	color: darkred;
@@ -48,7 +57,8 @@ a:hover {
 main {
 	margin: auto;
 	max-width: 38rem;
-	padding: 0.8rem;
+	padding: 1.6rem;
+	background: var(--white);
 }
 pre {
 	background: white;
@@ -56,7 +66,7 @@ pre {
 	padding: 1rem;
 }
 td {
-	border: 1px solid #2d2d2d;
+	border: 1px solid var(--black);
 	padding: 10px;
 }
 img {
@@ -93,6 +103,9 @@ time {
 @media screen and (max-width: 38rem) {
 	#site-title {
 	  font-size: 24vw;
+	}
+	main {
+		padding: 0.8rem;
 	}
 }
 
