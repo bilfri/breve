@@ -52,10 +52,11 @@
 
       {% block header %}
       <header role="banner">
+        <img src="/images/lukas-i-vest-cropped-2-vectorized.svg" id="site-cover" alt="Lukas, der sidder udenfor med en neonvest på og hænderne bag ryggen" width="427" height="146"> 
         <h1 style="margin:0;" id="site-title">
           <a href="{{ config.base_url | safe }}" title="Home">{{ config.title }}</a>
         </h1>
-        <h2 style="margin-top:0;" id="site-subtitle">{{ config.description }}</h2>
+        <h2 id="site-subtitle"> {{ config.description }} </h2>
       </header>
       <hr />
       {% endblock header %}
