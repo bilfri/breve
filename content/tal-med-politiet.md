@@ -163,6 +163,7 @@ I tråd med den ovenstående pointe om at nedbryde den professionelle distance, 
 
 - Spørge om deres navn, når de spørger om dit.
 - Række hånden ud for at give dem hånden når du møder en ny betjent eller siger farvel. Den vil nærmest med sikkerhed ikke blive gengældt, så det skal du lige være klar på. Og det giver nok ikke mening at sige "tak for idag", men du kan f.eks. sige "hav det godt" i stedet for.
+- Spørge om de vil sætte en bestemt sang på i bilen, hvis man bliver kørt til politistationen.
 
 ## Vær vaks
 
