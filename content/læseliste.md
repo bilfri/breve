@@ -1,5 +1,5 @@
 +++
-title = "Sommerlæsning"
+title = "Læseliste"
 date = "2023-05-27"
 +++
 
@@ -58,7 +58,10 @@ Forstå magtnetværk i danmark og hvordan andre kommer til at have magten over d
 ### [Revolutions, a Very Short Introduction](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A45568660) (Jack A. Goldstone)
 - Historiske eksempler på revolutionære episoder
 - Elitens rolle i samfundstransformation
-  
+
+### [Merchants of Doubt](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A45325547) (Noami Oreskes, Erik M. Conway)
+- Indblik i de grimme metoder fossilindustrien bruger til at sikre gode politiske betingelser for deres forretning
+- Mange lærerige paralleler mellem kampen mod fossilindustrien og kampene mod andre destruktive industrier, f.eks. tobaksindustrien
 
 ## Visioner
 
