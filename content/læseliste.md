@@ -53,7 +53,6 @@ Forstå magtnetværk i danmark og hvordan andre kommer til at have magten over d
 - Magtnetværk
 - Social arv
 - Sammenspil mellem politik og erhverv (lobbyisme)
-  
 
 ### [Revolutions, a Very Short Introduction](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A45568660) (Jack A. Goldstone)
 - Historiske eksempler på revolutionære episoder
@@ -88,6 +87,9 @@ Taler om den åndelige side af kampen for retfærdighed og fred ud fra erfaringe
 ### [Den lille projekthåndbog](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A47163374) (Torben Vinter, Julie Melgaard Smidt, Stine Skjødt Mygind)
 En god, kompakt håndbog om alt det organisatoriske arbejde. Den er skrevet til kulturevents, men kan bruges lige så vel til protestaktioner.
 
+### [Hegemony How-To](https:bibliotek.dk/work/pid/820050-katalog:9920647521305762)
+- Hvordan den interne kultur i en kampagne kan bidrage til eller ødelægge muligheden for politiske sejre
+- At skabe forbindelse mellem resten af samfundet og kampagnen, for seriøst at udfordre og måske at overvinde den dominerende magt/hegemoni.
 
 ## Klima
 
