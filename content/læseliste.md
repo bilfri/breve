@@ -87,7 +87,7 @@ Taler om den åndelige side af kampen for retfærdighed og fred ud fra erfaringe
 ### [Den lille projekthåndbog](https://bibliotek.dk/linkme.php?rec.id=870970-basis%3A47163374) (Torben Vinter, Julie Melgaard Smidt, Stine Skjødt Mygind)
 En god, kompakt håndbog om alt det organisatoriske arbejde. Den er skrevet til kulturevents, men kan bruges lige så vel til protestaktioner.
 
-### [Hegemony How-To](https:bibliotek.dk/work/pid/820050-katalog:9920647521305762)
+### [Hegemony How-To](https:bibliotek.dk/work/pid/820050-katalog:9920647521305762) (Jonathan Matthew Smucker)
 - Hvordan den interne kultur i en kampagne kan bidrage til eller ødelægge muligheden for politiske sejre
 - At skabe forbindelse mellem resten af samfundet og kampagnen, for seriøst at udfordre og måske at overvinde den dominerende magt/hegemoni.
 
